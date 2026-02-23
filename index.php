@@ -1,6 +1,3 @@
-<?php
-// hanya tampilan
-?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -113,4 +110,5 @@
 </script>
 
 </body>
+
 </html>
